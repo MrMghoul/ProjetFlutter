@@ -23,7 +23,8 @@ Cette application dans le cadre d'un projet universitaire aà pour but de reprod
 
 ### Backend
 
-L'API Flask se trouve en local dans le projet dans le dossier BackendFlutter il sufit de run le fichier app.py.
+L'API Flask se trouve en local  dans le projet APIProjetFlutter sur mon compte github il sufit de run le fichier app.py.
+(https://github.com/MrMghoul/ApiProjetFlutter)
 
 python app.py
 
