@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754649040608",
+    "project_id": "fluttermiage-6570c",
+    "storage_bucket": "fluttermiage-6570c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754649040608:android:6570e5755cf8acc57fb285",
+        "android_client_info": {
+          "package_name": "com.miag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC88vaYLpDYjVo0EO1cXVMQnLOcsUiz2KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

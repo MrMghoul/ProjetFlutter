@@ -1,0 +1,15 @@
+build/app/outputs/apk/debug/app-debug.apk filter=lfs diff=lfs merge=lfs -text
+build/windows/x64/extracted/firebase_cpp_sdk_windows/libs/windows/VS2019/MD/x64/Debug/firebase_app.lib filter=lfs diff=lfs merge=lfs -text
+build/windows/x64/extracted/firebase_cpp_sdk_windows/libs/windows/VS2019/MT/x64/Debug/firebase_app.lib filter=lfs diff=lfs merge=lfs -text
+build/windows/x64/extracted/firebase_cpp_sdk_windows/libs/windows/VS2019/MT/x86/Debug/firebase_database.lib filter=lfs diff=lfs merge=lfs -text
+build/windows/x64/extracted/firebase_cpp_sdk_windows/libs/windows/VS2019/MT/x64/Debug/firebase_database.lib filter=lfs diff=lfs merge=lfs -text
+build/windows/x64/extracted/firebase_cpp_sdk_windows/libs/windows/VS2019/MD/x64/Debug/firebase_database.lib filter=lfs diff=lfs merge=lfs -text
+build/windows/x64/extracted/firebase_cpp_sdk_windows/libs/windows/VS2019/MD/x64/Release/firebase_firestore.lib filter=lfs diff=lfs merge=lfs -text
+build/windows/x64/extracted/firebase_cpp_sdk_windows/libs/windows/VS2019/MT/x64/Debug/firebase_firestore.lib filter=lfs diff=lfs merge=lfs -text
+build/windows/x64/firebase_cpp_sdk_windows_12.0.0.zip filter=lfs diff=lfs merge=lfs -text
+build/windows/x64/extracted/firebase_cpp_sdk_windows/libs/windows/VS2019/MT/x86/Debug/firebase_firestore.lib filter=lfs diff=lfs merge=lfs -text
+build/windows/x64/extracted/firebase_cpp_sdk_windows/libs/windows/VS2019/MT/x86/Release/firebase_firestore.lib filter=lfs diff=lfs merge=lfs -text
+build/windows/x64/extracted/firebase_cpp_sdk_windows/libs/windows/VS2019/MD/x86/Release/firebase_firestore.lib filter=lfs diff=lfs merge=lfs -text
+build/windows/x64/extracted/firebase_cpp_sdk_windows/libs/windows/VS2019/MD/x64/Debug/firebase_firestore.lib filter=lfs diff=lfs merge=lfs -text
+build/windows/x64/extracted/firebase_cpp_sdk_windows/libs/windows/VS2019/MD/x86/Debug/firebase_firestore.lib filter=lfs diff=lfs merge=lfs -text
+build/windows/x64/extracted/firebase_cpp_sdk_windows/libs/windows/VS2019/MT/x64/Release/firebase_firestore.lib filter=lfs diff=lfs merge=lfs -text

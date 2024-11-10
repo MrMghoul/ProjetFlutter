@@ -1,0 +1,52 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_*.png
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# Mac related
+*.DS_Store
+
+# Windows related
+Thumbs.db
+
+# Android related
+*.android
+*.apk
+*.ap_
+*.jks
+*.keystore
+*.key
+
+# iOS related
+*.app
+*.app.dSYM
+*.ipad
+*.ipa
+*.xcarchive
+*.xcconfig
+
+# Web related
+*.web.*
+
+# Other
+*.log   
+*.log.*
+*.tmp
+*.temp
+*.tmp.*
+*.temp.*
+*.swp
+*.swp.*
+*.swo
+*.swo.*
